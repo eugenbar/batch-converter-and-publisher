@@ -9,7 +9,7 @@ Already working: Batch conversion of several audio files and one image to mkv fi
 Possible extensions: Direct uploads of the converted files to a Youtubechannel, adjusting all Youtube attributes to predefined inputs. Combined publishing on further social network sites. Customizeable for all related automation processes. GUI interface.
 
 
-#How to use it right now
+# How to use it right now
 Download an audio collection from https://archive.org/ 
 Choose an image as background.
 Either download the xml file of the collection from https://archive.org/ as well, or give it a try without it.
